@@ -368,7 +368,6 @@ body
 	background-color:black;
 	margin-top: -250px;
 	color:white;
-	padding-bottom: 50px;
 }
 .tel{
 	text-align: center;
@@ -380,7 +379,7 @@ body
 }
 .harita{
 	border:1px white solid;
-	width: auto;
+	width: 50%;
 	height: auto;
 	margin-bottom: 20px;
 }
